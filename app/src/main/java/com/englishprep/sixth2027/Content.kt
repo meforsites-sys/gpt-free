@@ -2,6 +2,7 @@ package com.englishprep.sixth2027
 
 import android.content.Context
 import kotlin.math.max
+import kotlin.math.min
 
 object Content {
 

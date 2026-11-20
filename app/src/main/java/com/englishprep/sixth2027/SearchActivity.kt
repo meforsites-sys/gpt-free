@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 class SearchActivity : AppCompatActivity() {
 
-    private data class Hit(val unitId: Int, val lineNo: Int, val snippet: String)
+    private data class Hit(val unitId: Int, val unitLabel: String, val lineNo: Int, val snippet: String)
 
     private lateinit var adapter: SimpleAdapter
     private var hits = mutableListOf<Hit>()
@@ -44,13 +44,13 @@ class SearchActivity : AppCompatActivity() {
             return
         }
         Content.search(this, q).forEach { (unit, lineNo, snippet) ->
-            hits.add(Hit(unit.id, lineNo, snippet))
+            hits.add(Hit(unit.id, unit.label, lineNo, snippet))
         }
         val rows = if (hits.isEmpty())
             listOf(Rows.row("لا توجد نتائج", "لا يوجد تطابق لـ «$q» في محتوى الملف المرفق."))
         else
             hits.map {
-                Rows.row("${it.unit.label} – سطر ${it.lineNo}", it.snippet)
+                Rows.row("${it.unitLabel} – سطر ${it.lineNo}", it.snippet)
             }
         adapter.submit(rows)
     }
@@ -62,7 +62,7 @@ class SearchActivity : AppCompatActivity() {
             Intent(this, ContentActivity::class.java)
                 .putExtra("unitId", hit.unitId)
                 .putExtra("lessonNumber", 0)
-                .putExtra("lessonTitle", "${hit.unit.label} – نتائج البحث")
+                .putExtra("lessonTitle", "${hit.unitLabel} – نتائج البحث")
                 .putExtra("query", lastQuery)
         )
     }
