@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English 6th Prep 2027</string>
+    <string name="teacher_mode">وضع الأستاذ</string>
+    <string name="student_mode">وضع الطالب</string>
+    <string name="units_section">الوحدات</string>
+    <string name="grammar_section">القواعد</string>
+    <string name="vocabulary_section">المفردات</string>
+    <string name="literature_section">الأدب</string>
+    <string name="activity_book_section">كتاب النشاط</string>
+    <string name="exams_section">الأسئلة والاختبارات</string>
+    <string name="search_section">البحث</string>
+    <string name="results_section">النتائج المحفوظة</string>
+    <string name="not_in_files">غير متوفر في الملفات المرفقة</string>
+    <string name="submit">تسليم</string>
+    <string name="check_answer">تحقق من الإجابة</string>
+    <string name="next_question">السؤال التالي</string>
+    <string name="finish">إنهاء</string>
+    <string name="search_hint">ابحث في كل محتوى المنهج…</string>
+    <string name="clear_results">حذف كل النتائج</string>
+</resources>

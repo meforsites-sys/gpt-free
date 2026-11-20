@@ -1,0 +1,1537 @@
+{
+ "units": [
+  1
+ ],
+ "sections": [
+  {
+   "id": "w1a_vocab",
+   "title": "أسئلة وزارية – اكتب الكلمات في المجموعة الصحيحة 4/A",
+   "lesson": "Lesson 1",
+   "category": "vocabulary",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "الإجابات مطبوعة بين قوسين في المصدر كما وردت.",
+   "items": [
+    {
+     "no": 1,
+     "type": "fill",
+     "q": "joint in the arm, s....................",
+     "answer": "Shoulder",
+     "answerNote": null
+    },
+    {
+     "no": 2,
+     "type": "fill",
+     "q": "Inside the body, h.......t .",
+     "answer": "heart",
+     "answerNote": null
+    },
+    {
+     "no": 3,
+     "type": "fill",
+     "q": "Joint, ankle // treatment , ……….",
+     "answer": "cream",
+     "answerNote": null
+    },
+    {
+     "no": 4,
+     "type": "fill",
+     "q": "Joint in the leg. A.......... .",
+     "answer": "Ankle",
+     "answerNote": null
+    },
+    {
+     "no": 5,
+     "type": "fill",
+     "q": "Joint in the arm............",
+     "answer": "Wrist",
+     "answerNote": null
+    },
+    {
+     "no": 6,
+     "type": "fill",
+     "q": "Ankle ; joints /// bandage ; ..............",
+     "answer": "treatment",
+     "answerNote": null
+    },
+    {
+     "no": 7,
+     "type": "fill",
+     "q": "Cream ; medicine /// ankle ; ………...knee .",
+     "answer": "knee",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "l7b",
+   "title": "التمرين 7/B – ضع فعلًا بصيغة الماضي المستمر وفعلًا بالماضي البسيط",
+   "lesson": "Lesson 2",
+   "category": "grammar",
+   "source": "كتاب الطالب – المصدر المرفق (المودل)",
+   "note": "نص التمرين كما ورد: Put one verb in the past continuous and one in the past simple. الإجابات مطبوعة في المصدر.",
+   "items": [
+    {
+     "no": 1,
+     "type": "fill",
+     "q": "I (think) about you and then you (ring) me.",
+     "answer": "was thinking / rang",
+     "answerNote": null
+    },
+    {
+     "no": 2,
+     "type": "fill",
+     "q": "While Ali (have) a shower, somebody (knock) at the door.",
+     "answer": "was having / knocked",
+     "answerNote": null
+    },
+    {
+     "no": 3,
+     "type": "fill",
+     "q": "I (clean) my room and I (find) 30 under my bed.",
+     "answer": "was cleaning / found.",
+     "answerNote": null
+    },
+    {
+     "no": 4,
+     "type": "fill",
+     "q": "Luckily, Reema (not drive) very fast when the child (run) into the road.",
+     "answer": "was not driving / ran.",
+     "answerNote": null
+    },
+    {
+     "no": 5,
+     "type": "fill",
+     "q": "A thief (take) our clothes while we (swim).",
+     "answer": "took / were swimming.",
+     "answerNote": null
+    },
+    {
+     "no": 6,
+     "type": "fill",
+     "q": "She (tell) us to be quiet as we (make) too much noise.",
+     "answer": "told / were making",
+     "answerNote": null
+    },
+    {
+     "no": 7,
+     "type": "fill",
+     "q": "My sister (hide) my purse under the bed while I (not look).",
+     "answer": "hid / was not looking",
+     "answerNote": null
+    },
+    {
+     "no": 8,
+     "type": "fill",
+     "q": "As she (carry) the shopping from the car, my grandmother (slip) and (break) her ankle.",
+     "answer": "was carrying / slipped / broke",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "l7c",
+   "title": "التمرين 7/C – أكمل الجمل بأفكارك الخاصة (الماضي البسيط)",
+   "lesson": "Lesson 2",
+   "category": "writing",
+   "source": "كتاب الطالب – المصدر المرفق (المودل)",
+   "note": "نص التمرين كما ورد: Complete these sentences with your own ideas. Put the verbs in the past simple. المصدر يعرض هذا التمرين مُحَلًّا بالأفكار النموذجية؛ الإجابات أدناه هي ما طُبع في المصدر، وأي إجابة منطقية بالماضي البسيط مقبولة.",
+   "items": [
+    {
+     "no": 1,
+     "type": "open",
+     "q": "I was running, and I ...",
+     "answer": "I was running, and I fell down.",
+     "answerNote": "أفكار نموذجية كما في المصدر؛ الإجابة بحرية مع وضع الأفعال في الماضي البسيط."
+    },
+    {
+     "no": 2,
+     "type": "open",
+     "q": "I wasn't looking where I was going, and I ...",
+     "answer": "I wasn't looking where I was going, and I hit a tree .",
+     "answerNote": "أفكار نموذجية كما في المصدر؛ الإجابة بحرية مع وضع الأفعال في الماضي البسيط."
+    },
+    {
+     "no": 3,
+     "type": "open",
+     "q": "I was getting ready for school when ...",
+     "answer": "I was getting ready for school when the power went out .",
+     "answerNote": "أفكار نموذجية كما في المصدر؛ الإجابة بحرية مع وضع الأفعال في الماضي البسيط."
+    },
+    {
+     "no": 4,
+     "type": "open",
+     "q": "My little brother was playing football when ...",
+     "answer": "My little brother was playing football when he broke a window .",
+     "answerNote": "أفكار نموذجية كما في المصدر؛ الإجابة بحرية مع وضع الأفعال في الماضي البسيط."
+    },
+    {
+     "no": 5,
+     "type": "open",
+     "q": "I was thinking about my weekend when ...",
+     "answer": "I was thinking about my weekend when the teacher suddenly asked me a question .",
+     "answerNote": "أفكار نموذجية كما في المصدر؛ الإجابة بحرية مع وضع الأفعال في الماضي البسيط."
+    },
+    {
+     "no": 6,
+     "type": "open",
+     "q": "While I was waiting for the bus, ...",
+     "answer": "While I was waiting for the bus, it started to rain .",
+     "answerNote": "أفكار نموذجية كما في المصدر؛ الإجابة بحرية مع وضع الأفعال في الماضي البسيط."
+    }
+   ]
+  },
+  {
+   "id": "w2_past",
+   "title": "أسئلة وزارية – الماضي البسيط والماضي المستمر",
+   "lesson": "Lesson 2",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "البنود 1–4: الإجابات غير مطبوعة في المصدر فتُعرض «غير متوفر في الملفات المرفقة». البنود 5–40: الإجابات مطبوعة كما وردت. البند 30 بلا إجابة مطبوعة في المصدر.",
+   "items": [
+    {
+     "no": 1,
+     "type": "mcq",
+     "q": "She (walked / was walking) home from school when she heard the police siren.",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "walked",
+      "was walking"
+     ]
+    },
+    {
+     "no": 2,
+     "type": "mcq",
+     "q": "Khaled was playing football when he ( breaks / broke ) his ankle.",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "breaks",
+      "broke"
+     ]
+    },
+    {
+     "no": 3,
+     "type": "mcq",
+     "q": "I was sitting in the park ………. somebody kicked the ball at me.",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "where",
+      "while",
+      "when"
+     ]
+    },
+    {
+     "no": 4,
+     "type": "mcq",
+     "q": "We were driving to the beach when we (hear / heard) a loud crash.",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "hear",
+      "heard"
+     ]
+    },
+    {
+     "no": 5,
+     "type": "fill",
+     "q": "Khalid (play) football when he broke his ankle. (Correct)",
+     "answer": "was playing.",
+     "answerNote": null
+    },
+    {
+     "no": 6,
+     "type": "fill",
+     "q": "A thief took our clothes as we (swim). (Correct)",
+     "answer": "were swimming.",
+     "answerNote": null
+    },
+    {
+     "no": 7,
+     "type": "fill",
+     "q": "Last year, my friend Zeina (get) hurt in a car accident. (Correct)",
+     "answer": "got.",
+     "answerNote": null
+    },
+    {
+     "no": 8,
+     "type": "fill",
+     "q": "She told us to be quit as we..........(make) too much noise. (Correct the verb)",
+     "answer": "were making.",
+     "answerNote": null
+    },
+    {
+     "no": 9,
+     "type": "fill",
+     "q": "I… (sit) in the park when someone kicked a ball at me. (Use the correct form of verb)",
+     "answer": "was sitting .",
+     "answerNote": null
+    },
+    {
+     "no": 10,
+     "type": "fill",
+     "q": "My cousin hid my purse under the stairs while I …….(not look) (put the verb in the correct form)",
+     "answer": "wasn't looking.",
+     "answerNote": null
+    },
+    {
+     "no": 11,
+     "type": "fill",
+     "q": "We(drive)to the beach when we heard a loud crash. (Correct the verb between brackets)",
+     "answer": "were driving.",
+     "answerNote": null
+    },
+    {
+     "no": 12,
+     "type": "fill",
+     "q": "She(tell) us to be quiet as we ( make) too much noise. (Put one verb in the past simple and one in past continuous)",
+     "answer": "told / were making.",
+     "answerNote": null
+    },
+    {
+     "no": 13,
+     "type": "fill",
+     "q": "We were speeding when we (see)the police car (Correct the form of the verb)",
+     "answer": "saw.",
+     "answerNote": null
+    },
+    {
+     "no": 14,
+     "type": "fill",
+     "q": "While my baggage (go) through the X- ray machine, I walked through the metal detector.",
+     "answer": "was going.",
+     "answerNote": null
+    },
+    {
+     "no": 15,
+     "type": "fill",
+     "q": "They ………………. In desert when they ……….a large snake. (camp / see) (Put the correct verb in the correct tense past continuous or past simple)",
+     "answer": "were camping / saw",
+     "answerNote": null
+    },
+    {
+     "no": 16,
+     "type": "fill",
+     "q": "While he …(skate ),he fell over.(Use the correct form of the verb)",
+     "answer": "was skating.",
+     "answerNote": null
+    },
+    {
+     "no": 17,
+     "type": "fill",
+     "q": "Luckily, Sharifa didn't drive very fast. The child ran into the road. ( join use \"when\")",
+     "answer": "Luckily, Sharifa wasn't driving very fast when the child ran into the road.",
+     "answerNote": null
+    },
+    {
+     "no": 18,
+     "type": "fill",
+     "q": "As he was running ,he….(fall ) down.( Put the verb in the correct form)",
+     "answer": "fell .",
+     "answerNote": null
+    },
+    {
+     "no": 19,
+     "type": "fill",
+     "q": "My sister (hide) my purse under the bed while I ( not look) .",
+     "answer": "hid / wasn't looking.",
+     "answerNote": null
+    },
+    {
+     "no": 20,
+     "type": "fill",
+     "q": "While Salam was driving too fast , a boy ( run) on the road .( Put the verb in the Correct form )",
+     "answer": "ran.",
+     "answerNote": null
+    },
+    {
+     "no": 21,
+     "type": "fill",
+     "q": "My phone rang while we (watch ) the movie . (Correct the verb)",
+     "answer": "were watching .",
+     "answerNote": null
+    },
+    {
+     "no": 22,
+     "type": "fill",
+     "q": "He (fall) over as he (come) down the stairs.(Put the verbs in brackets in the correct form)",
+     "answer": "fell / was coming",
+     "answerNote": null
+    },
+    {
+     "no": 23,
+     "type": "fill",
+     "q": "While I (read ) a story, I ( hear ) a strange noise .(Put a verb in past simple and one in past continuous )",
+     "answer": "was reading / heard .",
+     "answerNote": null
+    },
+    {
+     "no": 24,
+     "type": "fill",
+     "q": "She (tell) us to be quit as we were making too much noise.(Correct the form of the verb)",
+     "answer": "told .",
+     "answerNote": null
+    },
+    {
+     "no": 25,
+     "type": "fill",
+     "q": "I was eating breakfast and a bird (fly) into the kitchen. (Correct the form of the verb)",
+     "answer": "flew .",
+     "answerNote": null
+    },
+    {
+     "no": 26,
+     "type": "fill",
+     "q": "When I met her at the airport, Muna (wear) a long blue dress. (Correct the form of the verb)",
+     "answer": "was wearing .",
+     "answerNote": null
+    },
+    {
+     "no": 27,
+     "type": "fill",
+     "q": "While Ali(have) a shower, somebody (knock) the front door. (Correct the verbs in brackets )",
+     "answer": "was having / knocked.",
+     "answerNote": null
+    },
+    {
+     "no": 28,
+     "type": "fill",
+     "q": "As she ( carry ) the shopping from the car , my grandmother slipped and broke her ankle. ( Correct the form of the verb in brackets )",
+     "answer": "was carrying .",
+     "answerNote": null
+    },
+    {
+     "no": 29,
+     "type": "fill",
+     "q": "I (think) about you and then you rang me . ( Put the verb in the past continuous )",
+     "answer": "was thinking .",
+     "answerNote": null
+    },
+    {
+     "no": 30,
+     "type": "fill",
+     "q": "Khaled was playing football when he ( break ) his ankle. (Correct the form of the verb )",
+     "answer": "",
+     "answerNote": null
+    },
+    {
+     "no": 31,
+     "type": "fill",
+     "q": "Muna ( get ) married to Ghassan two years ago. ( Correct the form of the verb).",
+     "answer": "got.",
+     "answerNote": null
+    },
+    {
+     "no": 32,
+     "type": "fill",
+     "q": "They ( go ) to Lebanon and Morocco to choose cloth two months ago. (Correct the verb)",
+     "answer": "went.",
+     "answerNote": null
+    },
+    {
+     "no": 33,
+     "type": "fill",
+     "q": "We were speeding when we ( see ) the police car. ( Correct the form of the verb )",
+     "answer": "saw.",
+     "answerNote": null
+    },
+    {
+     "no": 34,
+     "type": "fill",
+     "q": "While I was eating breakfast, a bird ( fly) into the kitchen. ( Correct the form of the verb)",
+     "answer": "flew .",
+     "answerNote": null
+    },
+    {
+     "no": 35,
+     "type": "fill",
+     "q": "A bee flew into the kitchen through the open window while I(make)a birthday cake.( Correct )",
+     "answer": "was making .",
+     "answerNote": null
+    },
+    {
+     "no": 36,
+     "type": "fill",
+     "q": "I was driving to the hospital when my mobile phone ( ring ) . ( Correct the form of the verb)",
+     "answer": "rang.",
+     "answerNote": null
+    },
+    {
+     "no": 37,
+     "type": "fill",
+     "q": "My sister hid my purse under the bed while I (not look) (Correct the form of the verb)",
+     "answer": "wasn't looking.",
+     "answerNote": null
+    },
+    {
+     "no": 38,
+     "type": "fill",
+     "q": "I was ice -skating and I(fall) over.( Correct the form of the verb)",
+     "answer": "fell",
+     "answerNote": null
+    },
+    {
+     "no": 39,
+     "type": "fill",
+     "q": "Luckily, Sharifa (not drive) very fast when the child (run) into the road. (Put one verb in the past continuous and one in the past simple)",
+     "answer": "wasn't driving / ran.",
+     "answerNote": null
+    },
+    {
+     "no": 40,
+     "type": "fill",
+     "q": "She (cut) her hand while she ( chop) vegetables . (Put one verb in the past continuous and one in the past simple)",
+     "answer": "cut / was chopping.",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "w_ed_ing",
+   "title": "أسئلة وزارية – الصفات المنتهية بـ -ing / -ed",
+   "lesson": "Lesson 3",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "الإجابات لم تُطبع صراحةً في المصدر، وهي مقرَّرة هنا وفق القاعدة الواردة في نص الدرس نفسه (صفة الشعور تنتهي بـ ed وصفة السبب تنتهي بـ ing)؛ راجع «طريقة الحل» الواردة في المصدر قبل التقويم.",
+   "items": [
+    {
+     "no": 1,
+     "type": "mcq",
+     "q": "This book is very (bored / boring). I fell asleep whenever I try to read it.",
+     "answer": "boring",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "bored",
+      "boring"
+     ]
+    },
+    {
+     "no": 2,
+     "type": "mcq",
+     "q": "The film was so (boring / bored ) that I fell asleep.",
+     "answer": "boring",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "boring",
+      "bored"
+     ]
+    },
+    {
+     "no": 3,
+     "type": "mcq",
+     "q": "The children cried because the film was so (frightened / frightening).",
+     "answer": "frightening",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "frightened",
+      "frightening"
+     ]
+    },
+    {
+     "no": 4,
+     "type": "mcq",
+     "q": "He's a very (interested / interesting) person. He has lots of great stories to tell.",
+     "answer": "interesting",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "interested",
+      "interesting"
+     ]
+    },
+    {
+     "no": 5,
+     "type": "mcq",
+     "q": "What is the most ( exciting / excited) thing you have ever done?",
+     "answer": "exciting",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "exciting",
+      "excited"
+     ]
+    },
+    {
+     "no": 6,
+     "type": "mcq",
+     "q": "My flight was ( tiring / tired ) because it was twelve- hours flight.",
+     "answer": "tiring",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "tiring",
+      "tired"
+     ]
+    },
+    {
+     "no": 7,
+     "type": "mcq",
+     "q": "We were very ( frightened /frightening) when our car broke in the desert.",
+     "answer": "frightened",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "frightened",
+      "frightening"
+     ]
+    },
+    {
+     "no": 8,
+     "type": "mcq",
+     "q": "He was very (frightened /frightening) when he saw the spider.",
+     "answer": "frightened",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "frightened",
+      "frightening"
+     ]
+    },
+    {
+     "no": 9,
+     "type": "mcq",
+     "q": "I screamed when I saw that ( frightened / frightening) animal.",
+     "answer": "frightening",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "frightened",
+      "frightening"
+     ]
+    },
+    {
+     "no": 10,
+     "type": "mcq",
+     "q": "( Interesting / Interested ) books usually have pictures.",
+     "answer": "Interesting",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "Interesting",
+      "Interested"
+     ]
+    },
+    {
+     "no": 11,
+     "type": "mcq",
+     "q": "It was the most ( frightening / frightened) day of my life.",
+     "answer": "frightening",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "frightening",
+      "frightened"
+     ]
+    },
+    {
+     "no": 12,
+     "type": "mcq",
+     "q": "She is very ( interested / interesting ) in fashion.",
+     "answer": "interested",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "interested",
+      "interesting"
+     ]
+    },
+    {
+     "no": 13,
+     "type": "mcq",
+     "q": "I saw a very ( excited / exciting ) film on TV last night.",
+     "answer": "exciting",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "excited",
+      "exciting"
+     ]
+    },
+    {
+     "no": 14,
+     "type": "mcq",
+     "q": "The lecture was so ( boring / bored ) that I almost felt a sleep.",
+     "answer": "boring",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "boring",
+      "bored"
+     ]
+    },
+    {
+     "no": 15,
+     "type": "mcq",
+     "q": "She was very (annoyed/annoying) with him for not telling her the truth.",
+     "answer": "annoyed",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "annoyed",
+      "annoying"
+     ]
+    },
+    {
+     "no": 16,
+     "type": "mcq",
+     "q": "He is a very (interested / interesting) man. He's travelled all around the world.",
+     "answer": "interesting",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "interested",
+      "interesting"
+     ]
+    },
+    {
+     "no": 17,
+     "type": "mcq",
+     "q": "Have you seen that film ? It's really ( frightened / frightening ).",
+     "answer": "frightening",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "frightened",
+      "frightening"
+     ]
+    },
+    {
+     "no": 18,
+     "type": "mcq",
+     "q": "He's a very (interested/interesting) person. He has lots of great stories to tell.",
+     "answer": "interesting",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "interested",
+      "interesting"
+     ]
+    },
+    {
+     "no": 19,
+     "type": "mcq",
+     "q": "I'm (interesting / interested) in joining the club.",
+     "answer": "interested",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "interesting",
+      "interested"
+     ]
+    },
+    {
+     "no": 20,
+     "type": "mcq",
+     "q": "Everybody was (surprising / surprised) that he passed the exam.",
+     "answer": "surprised",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "surprising",
+      "surprised"
+     ]
+    },
+    {
+     "no": 21,
+     "type": "mcq",
+     "q": "She is not very ( interested / interesting) in fashion.",
+     "answer": "interested",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "interested",
+      "interesting"
+     ]
+    },
+    {
+     "no": 22,
+     "type": "mcq",
+     "q": "I've got some very (excited / exciting) news for you.",
+     "answer": "exciting",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "excited",
+      "exciting"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "w_adverbs",
+   "title": "أسئلة وزارية – الظروف المنتهية بـ -fully مقابل الصفات",
+   "lesson": "Lesson 3",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "الإجابات لم تُطبع صريحةً في المصدر، وهي مقرَّرة وفق القاعدة الواردة في نص الدرس نفسه (الظرف يصف الفعل وينتهي بـ ly)؛ راجع طريقة الحل الواردة في المصدر قبل التقويم.",
+   "items": [
+    {
+     "no": 1,
+     "type": "mcq",
+     "q": "He drives the car ( careful / carefully).",
+     "answer": "carefully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "careful",
+      "carefully"
+     ]
+    },
+    {
+     "no": 2,
+     "type": "mcq",
+     "q": "We hope that we can live (peaceful / peacefully ) together.",
+     "answer": "peacefully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "peaceful",
+      "peacefully"
+     ]
+    },
+    {
+     "no": 3,
+     "type": "mcq",
+     "q": "We all dream of living ( peaceful / peacefully ) together.",
+     "answer": "peacefully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "peaceful",
+      "peacefully"
+     ]
+    },
+    {
+     "no": 4,
+     "type": "mcq",
+     "q": "The film is ( wonderful / wonderfully ) directed.",
+     "answer": "wonderfully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "wonderful",
+      "wonderfully"
+     ]
+    },
+    {
+     "no": 5,
+     "type": "mcq",
+     "q": "Sara ( carefully / careful) lifted the box.",
+     "answer": "carefully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "carefully",
+      "careful"
+     ]
+    },
+    {
+     "no": 6,
+     "type": "mcq",
+     "q": "The picture was ( beautiful / beautifully ) painted.",
+     "answer": "beautifully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "beautiful",
+      "beautifully"
+     ]
+    },
+    {
+     "no": 7,
+     "type": "mcq",
+     "q": "The story was ( beautifully / beautiful ) written.",
+     "answer": "beautifully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "beautifully",
+      "beautiful"
+     ]
+    },
+    {
+     "no": 8,
+     "type": "mcq",
+     "q": "Tariq was floating (peaceful / peacefully).",
+     "answer": "peacefully",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر",
+     "options": [
+      "peaceful",
+      "peacefully"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "w_phrasal",
+   "title": "أسئلة وزارية – الأفعال المركبة (الترتيب والاختيار)",
+   "lesson": "Lesson 4",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "البنود 1–9 اختيار من متعدد كما ورد؛ البنود 10–24 ترتيب وإجاباتها مطبوعة كما وردت في المصدر.",
+   "items": [
+    {
+     "no": 1,
+     "type": "mcq",
+     "q": "I can't remember when I (took up it / took it up)",
+     "answer": "took it up",
+     "answerNote": null,
+     "options": [
+      "took up it",
+      "took it up"
+     ]
+    },
+    {
+     "no": 2,
+     "type": "mcq",
+     "q": "I like these shoes. Can I (try on them / try them on)?",
+     "answer": "try them on",
+     "answerNote": null,
+     "options": [
+      "try on them",
+      "try them on"
+     ]
+    },
+    {
+     "no": 3,
+     "type": "mcq",
+     "q": "Can you ( turn it down / turn down it) ?",
+     "answer": "turn it down",
+     "answerNote": null,
+     "options": [
+      "turn it down",
+      "turn down it"
+     ]
+    },
+    {
+     "no": 4,
+     "type": "mcq",
+     "q": "There are nice shoes, (try them on / try on them).",
+     "answer": "try them on",
+     "answerNote": null,
+     "options": [
+      "try them on",
+      "try on them"
+     ]
+    },
+    {
+     "no": 5,
+     "type": "mcq",
+     "q": "Can you ( the music turn down / turn down the music )?",
+     "answer": "turn down the music",
+     "answerNote": null,
+     "options": [
+      "the music turn down",
+      "turn down the music"
+     ]
+    },
+    {
+     "no": 6,
+     "type": "mcq",
+     "q": "I 've already (a. turn on it b. turn it on ).",
+     "answer": "turn it on",
+     "answerNote": null,
+     "options": [
+      "turn on it",
+      "turn it on"
+     ]
+    },
+    {
+     "no": 7,
+     "type": "mcq",
+     "q": "I 'll (a. turn down it b. turn it down ) in a minute",
+     "answer": "turn it down",
+     "answerNote": null,
+     "options": [
+      "turn down it",
+      "turn it down"
+     ]
+    },
+    {
+     "no": 8,
+     "type": "mcq",
+     "q": "I'll ( turn down it / turn it down ) in a minute .",
+     "answer": "turn it down",
+     "answerNote": null,
+     "options": [
+      "turn down it",
+      "turn it down"
+     ]
+    },
+    {
+     "no": 9,
+     "type": "mcq",
+     "q": "I need a calculator. I can't (work out it / work it out) in my head",
+     "answer": "work it out",
+     "answerNote": null,
+     "options": [
+      "work out it",
+      "work it out"
+     ]
+    },
+    {
+     "no": 10,
+     "type": "order",
+     "q": "I'll \\ turn down it \\ in a minute. (put in order)",
+     "answer": "I 'll turn it down in a minute .",
+     "answerNote": null
+    },
+    {
+     "no": 11,
+     "type": "order",
+     "q": "I like those shoes. Can I (try \\ on \\ them) (Put in the correct order)",
+     "answer": "try them on .",
+     "answerNote": null
+    },
+    {
+     "no": 12,
+     "type": "order",
+     "q": "Stamp collections is a nice hobby, when did you (it- up-take)? [Put in the correct order]",
+     "answer": "take it up .",
+     "answerNote": null
+    },
+    {
+     "no": 13,
+     "type": "order",
+     "q": "Smoking is terrible . You should / give up / it . (Put in the correct order )",
+     "answer": "give it up.",
+     "answerNote": null
+    },
+    {
+     "no": 14,
+     "type": "order",
+     "q": "These trousers were too long so ( I / took up / them ) to make them fit. ( Put in the correct order)",
+     "answer": "I took them up.",
+     "answerNote": null
+    },
+    {
+     "no": 15,
+     "type": "order",
+     "q": "This pencil is really old. You can throw away it. (Put in the correct order)",
+     "answer": "throw it away .",
+     "answerNote": null
+    },
+    {
+     "no": 16,
+     "type": "order",
+     "q": "I've already / turned on / it. ( Put in the correct order )",
+     "answer": "turned it on.",
+     "answerNote": null
+    },
+    {
+     "no": 17,
+     "type": "order",
+     "q": "I'll turn down / it in a minute . ( Put in the correct order)",
+     "answer": "turn it down.",
+     "answerNote": null
+    },
+    {
+     "no": 18,
+     "type": "order",
+     "q": "Can you / turn down / it ? ( Put in the correct order )",
+     "answer": "turn it down.",
+     "answerNote": null
+    },
+    {
+     "no": 19,
+     "type": "order",
+     "q": "Can you / the music / turn down ? ( Put in the correct order )",
+     "answer": "turn the music down / turn down the music.",
+     "answerNote": null
+    },
+    {
+     "no": 20,
+     "type": "order",
+     "q": "I can't remember when I took up / it . (Put in the correct order )",
+     "answer": "took it up.",
+     "answerNote": null
+    },
+    {
+     "no": 21,
+     "type": "order",
+     "q": "Most smokers ( take up / it ) as teenagers . ( Put the verb and the object in the correct order)",
+     "answer": "take it up.",
+     "answerNote": null
+    },
+    {
+     "no": 22,
+     "type": "order",
+     "q": "They'll / pick up / him from the airport. ( Put the verb and the object in the correct order )",
+     "answer": "pick him up.",
+     "answerNote": null
+    },
+    {
+     "no": 23,
+     "type": "order",
+     "q": "I want to keep these pictures, so don't (throw away / them). (Put in the correct order.)",
+     "answer": "throw them away.",
+     "answerNote": null
+    },
+    {
+     "no": 24,
+     "type": "order",
+     "q": "How long will I have to / keep on / it? (Put the verb and the object in the correct order)",
+     "answer": "keep it on",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "l11_prefixes",
+   "title": "التمرين 11/* – اكتب المقابل بوضع البوادئ (un- / in- / im-)",
+   "lesson": "Lesson 4",
+   "category": "vocabulary",
+   "source": "كتاب الطالب – المصدر المرفق (المودل)",
+   "note": "نص التمرين كما ورد: Make the opposites of these adjectives by putting the correct prefix in front of them. Choose from un-, in-, im-. الإجابات مطبوعة كاملة في المصدر (1- incorrect … 12- unpleasant)؛ الصفات الأساسية الموجودة في أسئلة هذا القسم ذُكِرت في جداول القسم نفسه في المصدر.",
+   "items": [
+    {
+     "no": 1,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: correct",
+     "answer": "incorrect",
+     "answerNote": null
+    },
+    {
+     "no": 2,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: moral",
+     "answer": "immoral",
+     "answerNote": null
+    },
+    {
+     "no": 3,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: fair",
+     "answer": "unfair",
+     "answerNote": null
+    },
+    {
+     "no": 4,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: efficient",
+     "answer": "inefficient",
+     "answerNote": null
+    },
+    {
+     "no": 5,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: fortunate",
+     "answer": "unfortunate",
+     "answerNote": null
+    },
+    {
+     "no": 6,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: patient",
+     "answer": "impatient",
+     "answerNote": null
+    },
+    {
+     "no": 7,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: usual",
+     "answer": "unusual",
+     "answerNote": null
+    },
+    {
+     "no": 8,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: polite",
+     "answer": "impolite",
+     "answerNote": null
+    },
+    {
+     "no": 9,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: healthy",
+     "answer": "unhealthy",
+     "answerNote": null
+    },
+    {
+     "no": 10,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: dependent",
+     "answer": "independent",
+     "answerNote": null
+    },
+    {
+     "no": 11,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: convenient",
+     "answer": "inconvenient",
+     "answerNote": null
+    },
+    {
+     "no": 12,
+     "type": "fill",
+     "q": "Put the correct prefix (un- / in- / im-) in front of: pleasant",
+     "answer": "unpleasant",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "w_imperatives",
+   "title": "أسئلة وزارية – استخدم صيغة الأمر لإعطاء نصيحة",
+   "lesson": "Lesson 5",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "التعليمات كما وردت: استخدم الجملة الامرية لإعطاء نصيحة (Use an imperative to give advice). الإجابات مطبوعة كما وردت في المصدر.",
+   "items": [
+    {
+     "no": 1,
+     "type": "open",
+     "q": "an average of eight hours a night is about right.",
+     "answer": "Get enough sleep.",
+     "answerNote": null
+    },
+    {
+     "no": 2,
+     "type": "open",
+     "q": "it's the most important meal of the day.",
+     "answer": "Never miss breakfast.",
+     "answerNote": null
+    },
+    {
+     "no": 3,
+     "type": "open",
+     "q": "at least litre and a half every day. Tea, coffee and soft drinks are NOT water.",
+     "answer": "Drink plenty of water.",
+     "answerNote": null
+    },
+    {
+     "no": 4,
+     "type": "open",
+     "q": "Get them tested once a year.",
+     "answer": "Look after your eyes.",
+     "answerNote": null
+    },
+    {
+     "no": 5,
+     "type": "open",
+     "q": "Tea is better for your heart and can even lower your blood pressure.",
+     "answer": "Don't drink too much coffee.",
+     "answerNote": null
+    },
+    {
+     "no": 6,
+     "type": "open",
+     "q": "And brush your teeth three times.",
+     "answer": "See the dentist for regular checkups.",
+     "answerNote": null
+    },
+    {
+     "no": 7,
+     "type": "open",
+     "q": "Make sure you are up to date with vaccination and take malaria if necessary.",
+     "answer": "Be safe when you travel.",
+     "answerNote": null
+    },
+    {
+     "no": 8,
+     "type": "open",
+     "q": "Ideally , do sport three times a week for an hour. If you hate sport, go for a 20-minute walk everyday.",
+     "answer": "Take some exercise every day.",
+     "answerNote": null
+    },
+    {
+     "no": 9,
+     "type": "open",
+     "q": "If you do, ask a doctor for help with giving it up.",
+     "answer": "Don't smoke.",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "w_used_to_1",
+   "title": "أسئلة وزارية – Used to (الجزء الأول: النفي والاستفهام)",
+   "lesson": "Lesson 6",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "البنود 1–3 اختيار من متعدد ولم تُطبع إجاباتها في المصدر؛ البقية مطبوعة كما وردت.",
+   "items": [
+    {
+     "no": 1,
+     "type": "mcq",
+     "q": "Did you (use to / used to) fight with your brother when you were little?",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "use to",
+      "used to"
+     ]
+    },
+    {
+     "no": 2,
+     "type": "mcq",
+     "q": "She didn't (used to / use to) be so thin , but she got very ill last year and lost a lot of weight.",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "used to",
+      "use to"
+     ]
+    },
+    {
+     "no": 3,
+     "type": "mcq",
+     "q": "He used to (organize / organized) matches for the students at the weekend.",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "organize",
+      "organized"
+     ]
+    },
+    {
+     "no": 4,
+     "type": "fill",
+     "q": "He ……. (not buy) Armani clothes. (Use the correct form of used to)",
+     "answer": "didn't use to buy.",
+     "answerNote": null
+    },
+    {
+     "no": 5,
+     "type": "fill",
+     "q": "Cities ………………… ( not be ) polluted. (Used to).",
+     "answer": "Cities didn't use to be polluted.",
+     "answerNote": null
+    },
+    {
+     "no": 6,
+     "type": "fill",
+     "q": "Girls ( not go) to school . ( Use: used to )",
+     "answer": "Girls didn't use to go to school.",
+     "answerNote": null
+    },
+    {
+     "no": 7,
+     "type": "fill",
+     "q": "How / you have / fun ? ( Used to )",
+     "answer": "How did you use to have fun ?",
+     "answerNote": null
+    },
+    {
+     "no": 8,
+     "type": "fill",
+     "q": "(Girls / go to school ? ) (Question with used to)",
+     "answer": "Did girls use to go to school?",
+     "answerNote": null
+    },
+    {
+     "no": 9,
+     "type": "fill",
+     "q": "You / go to work by car? ( Use : used to )",
+     "answer": "Did you use to go to work by car?",
+     "answerNote": null
+    },
+    {
+     "no": 10,
+     "type": "fill",
+     "q": "Which TV programmes (you /watch) when you were little? (Use the correct form of \"used to\")",
+     "answer": "did you use to watch?",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "w_used_to_2",
+   "title": "أسئلة وزارية – Used to (الجزء الثاني: used to + but now)",
+   "lesson": "Lesson 6",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "الإجابات مطبوعة كما وردت في المصدر.",
+   "items": [
+    {
+     "no": 1,
+     "type": "mcq",
+     "q": "We (used to / didn't use to) have security cameras, but now we have six of them.",
+     "answer": "",
+     "answerNote": null,
+     "options": [
+      "used to",
+      "didn't use to"
+     ]
+    },
+    {
+     "no": 2,
+     "type": "fill",
+     "q": "She (not talk) so much, but now she never stops talking. (Use the correct form of: used to )",
+     "answer": "didn't use to talk",
+     "answerNote": null
+    },
+    {
+     "no": 3,
+     "type": "fill",
+     "q": "I (play) football a lot, but I (not / play) very much now. (Use the correct form of \"used to\" and the present or past simple)",
+     "answer": "used to play …. , don't play .",
+     "answerNote": null
+    },
+    {
+     "no": 4,
+     "type": "fill",
+     "q": "He (have) his hair cut at the hairdresser's but now his wife (cut) it for him. (Used to)",
+     "answer": "used to have / cuts.",
+     "answerNote": null
+    },
+    {
+     "no": 5,
+     "type": "fill",
+     "q": "I (have) a bicycle, but someone (steal) it last week. (Use the correct form of (used to) and the present or past simple.)",
+     "answer": "used to have / stole.",
+     "answerNote": null
+    },
+    {
+     "no": 6,
+     "type": "fill",
+     "q": "There (be ) a house here , but they ( knock ) it down two years ago. (Use the correct form of \" used to \" , and present or past simple )",
+     "answer": "used to be / knocked.",
+     "answerNote": null
+    },
+    {
+     "no": 7,
+     "type": "fill",
+     "q": "Salwa (eat) meat , but now she ( be) a vegetarian. (Use the correct form of \"used to \" and the present simple or past simple)",
+     "answer": "used to eat / is",
+     "answerNote": null
+    },
+    {
+     "no": 8,
+     "type": "fill",
+     "q": "She ( not be) so thin , but she got very ill last year and lost a lot of weight. ( Use the Correct form of \"used to \")",
+     "answer": "didn't use to be.",
+     "answerNote": null
+    },
+    {
+     "no": 9,
+     "type": "fill",
+     "q": "He (like) going out, but now he always (want) to stay at home. (Use the correct form of \"used to\" and the present simple or past simple)",
+     "answer": "used to like / wants.",
+     "answerNote": null
+    },
+    {
+     "no": 10,
+     "type": "fill",
+     "q": "She (wear) glasses, but now she (have) contact lenses. (Use \"used to\" and the present or past simple)",
+     "answer": "used to wear / has .",
+     "answerNote": null
+    },
+    {
+     "no": 11,
+     "type": "fill",
+     "q": "Films ( be ) black and white, but now they are usually in colour. (Use \" used to )",
+     "answer": "used to be .",
+     "answerNote": null
+    },
+    {
+     "no": 12,
+     "type": "fill",
+     "q": "I ( drink ) coffee every morning, but now I drink tea. ( Use the correct form of: \" Used to \" )",
+     "answer": "I used to drink.",
+     "answerNote": null
+    },
+    {
+     "no": 13,
+     "type": "fill",
+     "q": "He (not like ) Chinese food , but now he loves it. (Use the correct form of \" used to\")",
+     "answer": "didn't use to like.",
+     "answerNote": null
+    },
+    {
+     "no": 14,
+     "type": "fill",
+     "q": "I (have) long hair , but now I have short hair. (Use the correct form of \" used to\")",
+     "answer": "used to have .",
+     "answerNote": null
+    },
+    {
+     "no": 15,
+     "type": "fill",
+     "q": "She ( smoke ) , but she ( give ) up a few years ago . (Use the correct form of \"used to\" and the present or past simple)",
+     "answer": "She used to smoke / gave ..",
+     "answerNote": null
+    },
+    {
+     "no": 16,
+     "type": "fill",
+     "q": "I (like) travelling, but now I (not / like) it anymore. (Use \"used to\" and the present or past simple)",
+     "answer": "used to like / I don't like .",
+     "answerNote": null
+    },
+    {
+     "no": 17,
+     "type": "fill",
+     "q": "I (live) in a big house, but I (move) to a smaller house last year. (Use the correct form of \"used to\" and the present or past simple)",
+     "answer": "used to live ……. / moved .",
+     "answerNote": null
+    }
+   ]
+  },
+  {
+   "id": "w_used_to_cmp",
+   "title": "أسئلة وزارية – Used to (المقارنة بين الحاضر والماضي)",
+   "lesson": "Lesson 6",
+   "category": "grammar",
+   "source": "أسئلة وزارية – 2027 1+2 +3+4-compressed (1).pdf",
+   "note": "البنود 1–6 في المصدر وردت كأزواج إجابات مطبوعة دون نص سؤال واضح (خلل في استخراج النص) فلم تُدرَج بنودًا تفاعلية؛ البنود أعلاه مرقّمة وفق ترقيم المصدر 7–14 وإجاباتها مطبوعة كما وردت.",
+   "items": [
+    {
+     "no": 1,
+     "type": "mcq",
+     "q": "Families are not as ( big / bigger) as they used to be.",
+     "answer": "big",
+     "answerNote": null,
+     "options": [
+      "big",
+      "bigger"
+     ]
+    },
+    {
+     "no": 2,
+     "type": "mcq",
+     "q": "Life is not as ( easy / easier ) as it used to be.",
+     "answer": "easy",
+     "answerNote": null,
+     "options": [
+      "easy",
+      "easier"
+     ]
+    },
+    {
+     "no": 3,
+     "type": "mcq",
+     "q": "Doctors are (good / better) trained than they used to be.",
+     "answer": "better",
+     "answerNote": null,
+     "options": [
+      "good",
+      "better"
+     ]
+    },
+    {
+     "no": 4,
+     "type": "mcq",
+     "q": "Life is ( fast / faster) now than it used to be.",
+     "answer": "faster",
+     "answerNote": null,
+     "options": [
+      "fast",
+      "faster"
+     ]
+    },
+    {
+     "no": 5,
+     "type": "mcq",
+     "q": "Streets are ( dangerous / more dangerous) than they used to be .",
+     "answer": "more dangerous",
+     "answerNote": null,
+     "options": [
+      "dangerous",
+      "more dangerous"
+     ]
+    },
+    {
+     "no": 6,
+     "type": "mcq",
+     "q": "The flowers that you bought, are (most beautiful / more beautiful) than I bought.",
+     "answer": "more beautiful",
+     "answerNote": null,
+     "options": [
+      "most beautiful",
+      "more beautiful"
+     ]
+    },
+    {
+     "no": 7,
+     "type": "fill",
+     "q": "Education is better than 50 years ago. ( Use: as…….as instead of than)",
+     "answer": "Education isn't as good as it used to be.",
+     "answerNote": null
+    },
+    {
+     "no": 8,
+     "type": "fill",
+     "q": "(Education / good) (Compare education today with education 50 years ago. Use: than)",
+     "answer": "Education is better now than it used to be.",
+     "answerNote": null
+    }
+   ]
+  }
+ ]
+}
