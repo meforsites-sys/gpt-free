@@ -23,7 +23,7 @@ class UnitsActivity : AppCompatActivity() {
         }
         findViewById<TextView>(R.id.screen_title).text = title
         findViewById<TextView>(R.id.screen_subtitle).text =
-            "المصدر: ${Content.SOURCE_NAME} – ${Content.SOURCE_PAGES} صفحة"
+            "المصادر: ملف المودل (${Content.SOURCE_PAGES} صفحة) + كتاب الطالب (الوحدتان 7–8)"
 
         data class RowInfo(val unit: Int, val label: String, val note: String, val dimmed: Boolean)
 
