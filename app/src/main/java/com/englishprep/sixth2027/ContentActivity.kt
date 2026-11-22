@@ -42,12 +42,13 @@ class ContentActivity : AppCompatActivity() {
 
         findViewById<TextView>(R.id.content_title).text =
             if (lessonTitle.isNotBlank()) lessonTitle else title
+        val srcName = info.source ?: Content.SOURCE_NAME
         findViewById<TextView>(R.id.content_source).text =
-            "المصدر: ${Content.SOURCE_NAME} – النص الأصلي محفوظ كما ورد"
+            "المصدر: $srcName – النص الأصلي محفوظ كما ورد"
 
         val html = Content.toHtml(
             this, body, title,
-            "المصدر: ${Content.SOURCE_NAME} (${Content.SOURCE_PAGES} صفحة) – ملف المودل المرفق"
+            "المصدر: $srcName – ملف المودل المرفق"
         )
         webView.loadDataWithBaseURL(null, html, "text/html", "utf-8", null)
 

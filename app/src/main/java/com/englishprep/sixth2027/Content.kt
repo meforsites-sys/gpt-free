@@ -8,12 +8,14 @@ object Content {
 
     const val SOURCE_NAME = "2027 1+2 +3+4-compressed (1).pdf"
     const val SOURCE_PAGES = 166
+    const val SOURCE_STUDENT_BOOK = "كتاب_الطالب_للصف_السادس_الإعدادي_8_وحدات_مع_الأدب.pdf"
 
     data class UnitInfo(
         val id: Int,
         val label: String,
         val asset: String?,
-        val available: Boolean
+        val available: Boolean,
+        val source: String? = null
     )
 
     val units: List<UnitInfo> = listOf(
@@ -23,8 +25,8 @@ object Content {
         UnitInfo(4, "الوحدة الرابعة – السفر والسياحة", "content/unit4.md", true),
         UnitInfo(5, "الوحدة الخامسة – المال والمصارف", "content/unit5.md", true),
         UnitInfo(6, "الوحدة السادسة – التعليم والدراسة", "content/unit6.md", true),
-        UnitInfo(7, "الوحدة السابعة", null, false),
-        UnitInfo(8, "الوحدة الثامنة", null, false)
+        UnitInfo(7, "الوحدة السابعة – التعليم والتخصص", "content/unit7.md", true, SOURCE_STUDENT_BOOK),
+        UnitInfo(8, "الوحدة الثامنة – الموارد الطبيعية", "content/unit8.md", true, SOURCE_STUDENT_BOOK)
     )
 
     fun unit(id: Int): UnitInfo? = units.firstOrNull { it.id == id }

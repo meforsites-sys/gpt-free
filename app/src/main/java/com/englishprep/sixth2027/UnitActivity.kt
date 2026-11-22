@@ -20,8 +20,9 @@ class UnitActivity : AppCompatActivity() {
         val info = Content.unit(unitId)
 
         findViewById<TextView>(R.id.screen_title).text = info?.label ?: "وحدة"
+        val srcName = info?.source ?: Content.SOURCE_NAME
         findViewById<TextView>(R.id.screen_subtitle).text =
-            "المصدر: ${Content.SOURCE_NAME}" +
+            "المصدر: $srcName" +
                 if (info?.available == true) " – النص الأصلي محفوظ كما ورد" else ""
 
         val recycler = findViewById<RecyclerView>(R.id.recycler)
@@ -38,7 +39,7 @@ class UnitActivity : AppCompatActivity() {
             val i = Intent(this, ContentActivity::class.java)
             i.putExtra("unitId", unitId)
             i.putExtra("lessonNumber", n)
-            i.putExtra("lessonTitle", target?.titleLine ?: "Lesson $n")
+            i.putExtra("lessonTitle", if (n == 0) (info?.label ?: "الوحدة") + " – كامل" else target?.titleLine ?: "Lesson $n")
             startActivity(i)
         }
         recycler.adapter = adapter
@@ -74,15 +75,25 @@ class UnitActivity : AppCompatActivity() {
                     )
                 )
             }
-            for (n in 1..9) {
-                if (lessons.none { it.number == n }) {
-                    numbersShown.add(n)
-                    rows.add(
-                        Rows.row(
-                            "Lesson $n",
-                            "عنوان الدرس غير واضح في النص المستخرج من المصدر – سيُفتح محتوى الوحدة كاملًا."
-                        )
+            if (lessons.isEmpty()) {
+                numbersShown.add(0)
+                rows.add(
+                    Rows.row(
+                        "الوحدة كاملة",
+                        "المصدر يعرض هذه الوحدة دون عناوين دروس صريحة — اضغط لعرض النص كاملًا كما ورد."
                     )
+                )
+            } else {
+                for (n in 1..9) {
+                    if (lessons.none { it.number == n }) {
+                        numbersShown.add(n)
+                        rows.add(
+                            Rows.row(
+                                "Lesson $n",
+                                "عنوان الدرس غير واضح في النص المستخرج من المصدر – سيُفتح محتوى الوحدة كاملًا."
+                            )
+                        )
+                    }
                 }
             }
         }
