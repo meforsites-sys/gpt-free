@@ -192,8 +192,8 @@
      "no": 1,
      "type": "mcq",
      "q": "She (walked / was walking) home from school when she heard the police siren.",
-     "answer": "",
-     "answerNote": null,
+     "answer": "was walking",
+     "answerNote": "الإجابة مطبوعةً في المصدر: تظهر الجملة محلولةً في موضع آخر من الملف نفسه (الاستخراج المحسّن المرفق حديثًا).",
      "options": [
       "walked",
       "was walking"
@@ -203,8 +203,8 @@
      "no": 2,
      "type": "mcq",
      "q": "Khaled was playing football when he ( breaks / broke ) his ankle.",
-     "answer": "",
-     "answerNote": null,
+     "answer": "broke",
+     "answerNote": "الإجابة مطبوعةً في المصدر: تظهر الجملة محلولةً في موضع آخر من الملف نفسه (الاستخراج المحسّن المرفق حديثًا).",
      "options": [
       "breaks",
       "broke"
@@ -214,8 +214,8 @@
      "no": 3,
      "type": "mcq",
      "q": "I was sitting in the park ………. somebody kicked the ball at me.",
-     "answer": "",
-     "answerNote": null,
+     "answer": "when",
+     "answerNote": "الإجابة مطبوعةً في المصدر: تظهر الجملة محلولةً في موضع آخر من الملف نفسه (الاستخراج المحسّن المرفق حديثًا).",
      "options": [
       "where",
       "while",
@@ -226,8 +226,8 @@
      "no": 4,
      "type": "mcq",
      "q": "We were driving to the beach when we (hear / heard) a loud crash.",
-     "answer": "",
-     "answerNote": null,
+     "answer": "heard",
+     "answerNote": "الإجابة مطبوعةً في المصدر: تظهر الجملة محلولةً في موضع آخر من الملف نفسه (الاستخراج المحسّن المرفق حديثًا).",
      "options": [
       "hear",
       "heard"
@@ -412,8 +412,8 @@
      "no": 30,
      "type": "fill",
      "q": "Khaled was playing football when he ( break ) his ankle. (Correct the form of the verb )",
-     "answer": "",
-     "answerNote": null
+     "answer": "broke",
+     "answerNote": "الإجابة مطبوعةً في المصدر: تظهر الجملة محلولةً في موضع آخر من الملف نفسه (الاستخراج المحسّن المرفق حديثًا)."
     },
     {
      "no": 31,
@@ -1230,8 +1230,8 @@
      "no": 1,
      "type": "mcq",
      "q": "Did you (use to / used to) fight with your brother when you were little?",
-     "answer": "",
-     "answerNote": null,
+     "answer": "use to",
+     "answerNote": "الإجابة مطبوعةً في المصدر: تظهر الجملة محلولةً في موضع آخر من الملف نفسه (الاستخراج المحسّن المرفق حديثًا).",
      "options": [
       "use to",
       "used to"
@@ -1241,8 +1241,8 @@
      "no": 2,
      "type": "mcq",
      "q": "She didn't (used to / use to) be so thin , but she got very ill last year and lost a lot of weight.",
-     "answer": "",
-     "answerNote": null,
+     "answer": "use to",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر.",
      "options": [
       "used to",
       "use to"
@@ -1252,8 +1252,8 @@
      "no": 3,
      "type": "mcq",
      "q": "He used to (organize / organized) matches for the students at the weekend.",
-     "answer": "",
-     "answerNote": null,
+     "answer": "organize",
+     "answerNote": "إجابة مقرَّرة وفق القاعدة الواردة في المصدر؛ لم تُطبع صريحةً في المصدر.",
      "options": [
       "organize",
       "organized"
@@ -1322,8 +1322,8 @@
      "no": 1,
      "type": "mcq",
      "q": "We (used to / didn't use to) have security cameras, but now we have six of them.",
-     "answer": "",
-     "answerNote": null,
+     "answer": "didn't use to",
+     "answerNote": "الإجابة مطبوعةً في المصدر: تظهر الجملة محلولةً في موضع آخر من الملف نفسه (الاستخراج المحسّن المرفق حديثًا).",
      "options": [
       "used to",
       "didn't use to"
